@@ -33,6 +33,6 @@ For example, to run the "Check Vowel or Consonant" program:
 
 
 ## Author
-Sujal Devkota - [GitHub](https://github.com/sujaldevkota)
+Sujal Devkota - [GitHub](https://github.com/sujal2060)
 
-For any issues or suggestions regarding these programs, please contact Sujal Devkota at sujaldevkota@example.com.
+For any issues or suggestions regarding these programs, please contact Sujal Devkota at devkotasumsher@gmail.com.
